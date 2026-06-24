@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0183-customers-who-never-order) |
 | [1795-rearrange-products-table](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
