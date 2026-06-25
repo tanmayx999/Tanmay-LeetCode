@@ -14,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
