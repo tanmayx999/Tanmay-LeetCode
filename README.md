@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3570-find-books-with-no-available-copies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/3570-find-books-with-no-available-copies) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
