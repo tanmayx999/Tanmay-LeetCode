@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1795-rearrange-products-table](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1890-the-latest-login-in-2020) |
