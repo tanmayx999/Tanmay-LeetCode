@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0608-tree-node) |
 | [0626-exchange-seats](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1795-rearrange-products-table](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1890-the-latest-login-in-2020) |
