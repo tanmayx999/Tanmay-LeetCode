@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0066-plus-one) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
