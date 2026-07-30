@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0027-remove-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
