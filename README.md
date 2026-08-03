@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0455-assign-cookies) |
+| [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0455-assign-cookies) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
