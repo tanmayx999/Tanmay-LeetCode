@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
@@ -162,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
