@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,16 +152,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
