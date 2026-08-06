@@ -167,12 +167,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
