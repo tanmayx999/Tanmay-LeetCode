@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0495-teemo-attacking) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
