@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0495-teemo-attacking) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
