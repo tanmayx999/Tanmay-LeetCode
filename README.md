@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
 | ------- |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0500-keyboard-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
