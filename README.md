@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -135,14 +137,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
 | ------- |
