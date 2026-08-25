@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0598-range-addition-ii) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
+| [0598-range-addition-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0598-range-addition-ii) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
