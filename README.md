@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
