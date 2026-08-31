@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tanmayx999/Tanmay-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
