@@ -15,20 +15,18 @@ public:
                 int sum = 0;
                 int count = 0;
 
-                // Check 3x3 neighborhood
                 for (int dr = -1; dr <= 1; ++dr) {
                     for (int dc = -1; dc <= 1; ++dc) {
                         int nr = r + dr;
                         int nc = c + dc;
 
-                        // Bounds check
                         if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
                             sum += img[nr][nc];
                             count++;
                         }
                     }
                 }
-                res[r][c] = sum / count; // Integer division handles floor rounding
+                res[r][c] = sum / count;
             }
         }
 
