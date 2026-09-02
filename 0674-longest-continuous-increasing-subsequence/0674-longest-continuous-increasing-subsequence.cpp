@@ -15,7 +15,7 @@ public:
             if (nums[i] > nums[i - 1]) {
                 curr++;
             } else {
-                curr = 1; // Reset count if not strictly increasing
+                curr = 1; 
             }
             maxLen = max(maxLen, curr);
         }
