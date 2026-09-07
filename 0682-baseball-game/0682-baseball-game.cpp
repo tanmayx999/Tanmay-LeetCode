@@ -6,7 +6,6 @@ class Solution {
 public:
     int calPoints(std::vector<std::string>& operations) {
         std::vector<int> scores;
-        
         for (const std::string& op : operations) {
             if (op == "+") {
                 scores.push_back(scores.back() + scores[scores.size() - 2]);
@@ -18,7 +17,6 @@ public:
                 scores.push_back(std::stoi(op));
             }
         }
-        
         return std::accumulate(scores.begin(), scores.end(), 0);
     }
 };
