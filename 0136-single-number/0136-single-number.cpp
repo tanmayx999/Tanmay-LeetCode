@@ -1,12 +1,17 @@
-#include <vector>
-
 class Solution {
 public:
-    int singleNumber(std::vector<int>& nums) {
-        int single = 0;
-        for (int num : nums) {
-            single ^= num; // Bitwise XOR
+    int singleNumber(vector<int>& nums) {
+        int n = nums.size();
+        for(int i=0; i<n; i++){
+            int num = nums[i];
+            int count = 0;
+            for(int j=0; j<n; j++){
+                if(nums[j] == num){
+                    count++;
+                }
+            }
+            if(count == 1) return num;
         }
-        return single;
+        return -1;
     }
 };
